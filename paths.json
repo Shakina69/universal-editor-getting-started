@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/EDS2/:/",
-    "/content/EDS2/configuration/:.helix/config.json",
-    "/content/EDS2/metadata/:metadata.json"
+    "/content/shakinaeds/:/",
+    "/content/shakinaeds/configuration/:.helix/config.json",
+    "/content/shakinaeds/metadata/:metadata.json"
   ],
   "includes": [
-    "/content/EDS2/"
+    "/content/shakinaeds/"
   ]
 }
