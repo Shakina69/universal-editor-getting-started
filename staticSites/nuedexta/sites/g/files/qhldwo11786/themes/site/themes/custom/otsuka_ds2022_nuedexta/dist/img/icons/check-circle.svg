@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/check-circle</title>
+    <g id="Design-Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="How-to-Talk-to-Your-Doctor" transform="translate(-285, -1434)" fill-rule="nonzero">
+            <g id="BeforeYourAppointment" transform="translate(285, 1254)">
+                <g id="Group-5" transform="translate(0, 180)">
+                    <g id="Group" transform="translate(0, 0)">
+                        <path d="M27.3136072,4.68639276 C21.0650836,-1.56213092 10.9349164,-1.56213092 4.68639276,4.68639276 C-1.56213092,10.9349164 -1.56213092,21.0650836 4.68639276,27.3136072 C10.9349164,33.5621309 21.0650836,33.5621309 27.3136072,27.3136072 C33.5621309,21.0650836 33.5621309,10.9339139 27.3136072,4.68639276 Z" id="Path" fill="#006171"></path>
+                        <polygon id="Path" fill="#D1EA8D" points="13.4892624 24.2680409 6.22722075 17.0059993 9.06226406 14.170956 13.4892624 18.5979543 22.9367334 9.14948074 25.7717768 11.9845241"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
