@@ -184,8 +184,7 @@
               "page": {
                 "resourceType": "core/franklin/components/text/v1/text",
                 "template": {
-                  "name": "customtext",
-                  "model": "text"
+                  "model": "customtext"
                 }
               }
             }

@@ -248,7 +248,7 @@
     ]
   },
   {
-    "id": "text",
+    "id": "customtext",
     "fields": [
       {
         "name": "color",
