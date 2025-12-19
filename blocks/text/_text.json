@@ -1,0 +1,29 @@
+{
+  "definitions": [
+    {
+      "title": "Text",
+      "id": "text",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/text/v1/text",
+            "template": {
+              "name": "text",
+              "model": "text"
+            }
+          }
+        }
+      },
+      "styles": [
+        {
+          "name": "Black",
+          "className": "sovm_text--color-black"
+        },
+        {
+          "name": "White",
+          "className": "sovm_text--color-white"
+        }
+      ]
+    }
+  ]
+}
