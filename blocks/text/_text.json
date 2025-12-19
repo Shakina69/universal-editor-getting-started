@@ -13,17 +13,30 @@
             }
           }
         }
-      },
-      "styles": [
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "text",
+      "fields": [
         {
-          "name": "Black",
-          "className": "sovm_text--color-black"
-        },
-        {
-          "name": "White",
-          "className": "sovm_text--color-white"
+          "component": "select",
+          "name": "color",
+          "label": "Color",
+          "options": [
+            {
+              "name": "White",
+              "value": "sovm_text--color-white"
+            },
+            {
+              "name": "Black",
+              "value": "sovm_text--color-black"
+            }
+          ]
         }
       ]
     }
-  ]
+  ],
+  "filters": []
 }

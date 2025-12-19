@@ -1,4 +1,6 @@
-export default function decorate(block) {
-  // Color is handled via Franklin Styles dropdown.
-  // No JavaScript logic is required.
+export default async function decorate(block) 
+{
+  const colorStyle = block.children[1].textContent.trim();
+  block.children[0].classList.add(colorStyle);
+  block.children[1].remove();
 }
