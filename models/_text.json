@@ -1,14 +1,14 @@
 {
   "definitions": [
     {
-      "title": "customtext",
+      "title": "Text",
       "id": "text",
       "plugins": {
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/text/v1/text",
             "template": {
-              "name": "customtext",
+              "name": "text",
               "model": "text"
             }
           }
@@ -21,18 +21,17 @@
       "id": "text",
       "fields": [
         {
-          "name": "color",
-          "label": "Text Color",
           "component": "select",
-          "valueType": "string",
+          "name": "color",
+          "label": "Color",
           "options": [
             {
-              "name": "Black",
-              "value": "text--black"
+              "name": "White",
+              "value": "sovm_text--color-white"
             },
             {
-              "name": "White",
-              "value": "text--white"
+              "name": "Black",
+              "value": "sovm_text--color-black"
             }
           ]
         }

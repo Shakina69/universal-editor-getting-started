@@ -5,14 +5,14 @@
       "id": "default",
       "components": [
         {
-          "title": "customtext",
+          "title": "Text",
           "id": "text",
           "plugins": {
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/text/v1/text",
                 "template": {
-                  "name": "customtext",
+                  "name": "text",
                   "model": "text"
                 }
               }
