@@ -1,8 +1,12 @@
-/* Text color variants */
-.sovm_text--color-black {
-  color: #000000;
+.text {
+  padding: 12px 0;
 }
 
-.sovm_text--color-white {
-  color: #ffffff;
+/* Text colors */
+.text--black {
+  color: #000;
+}
+
+.text--white {
+  color: #fff;
 }
