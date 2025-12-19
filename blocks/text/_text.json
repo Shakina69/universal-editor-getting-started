@@ -22,7 +22,7 @@
         {
           "name": "text",
           "label": "Text",
-          "component": "text",
+          "component": "textarea",
           "valueType": "string",
           "required": true
         },
