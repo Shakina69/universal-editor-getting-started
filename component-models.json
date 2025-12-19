@@ -253,7 +253,7 @@
       {
         "name": "text",
         "label": "Text",
-        "component": "textarea",
+        "component": "text",
         "valueType": "string",
         "required": true
       },
