@@ -1,12 +1,12 @@
 {
   "definitions": [
     {
-      "title": "Custom Text",
+      "title": "customtext",
       "id": "text",
       "plugins": {
         "xwalk": {
           "page": {
-            "resourceType": "core/franklin/components/block/v1/block",
+            "resourceType": "core/franklin/components/title/v1/title",
             "template": {
               "model": "customtext"
             }
@@ -20,24 +20,23 @@
       "id": "customtext",
       "fields": [
         {
-          "name": "text",
-          "label": "Text",
-          "component": "textarea",
-          "valueType": "string",
-          "required": true
-        },
-        {
           "name": "color",
           "label": "Text Color",
           "component": "select",
           "valueType": "string",
-          "required": true,
           "options": [
-            { "name": "Black", "value": "text--black" },
-            { "name": "White", "value": "text--white" }
+            {
+              "name": "Black",
+              "value": "text--black"
+            },
+            {
+              "name": "White",
+              "value": "text--white"
+            }
           ]
         }
       ]
     }
-  ]
+  ],
+  "filters": []
 }

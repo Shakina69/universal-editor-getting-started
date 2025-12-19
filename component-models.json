@@ -251,18 +251,10 @@
     "id": "customtext",
     "fields": [
       {
-        "name": "text",
-        "label": "Text",
-        "component": "textarea",
-        "valueType": "string",
-        "required": true
-      },
-      {
         "name": "color",
         "label": "Text Color",
         "component": "select",
         "valueType": "string",
-        "required": true,
         "options": [
           {
             "name": "Black",
