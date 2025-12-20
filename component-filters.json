@@ -43,5 +43,9 @@
   {
     "id": "test",
     "components": []
+  },
+  {
+    "id": "customtext",
+    "components": []
   }
 ]
