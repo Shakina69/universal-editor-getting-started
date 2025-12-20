@@ -41,11 +41,11 @@
     ]
   },
   {
-    "id": "test",
+    "id": "customtext",
     "components": []
   },
   {
-    "id": "customtext",
+    "id": "test",
     "components": []
   }
 ]

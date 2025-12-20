@@ -2,7 +2,7 @@
   "definitions": [
     {
       "title": "customtext",
-      "id": "customtext",
+      "id": "text",
       "plugins": {
         "xwalk": {
           "page": {

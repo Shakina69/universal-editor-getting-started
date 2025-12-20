@@ -201,6 +201,33 @@
     ]
   },
   {
+    "id": "customtext",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      },
+      {
+        "name": "color",
+        "label": "Text Color",
+        "component": "select",
+        "options": [
+          {
+            "name": "Black",
+            "value": "text--black"
+          },
+          {
+            "name": "White",
+            "value": "text--white"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "fragment",
     "fields": [
       {
@@ -245,33 +272,6 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
-      }
-    ]
-  },
-  {
-    "id": "customtext",
-    "fields": [
-      {
-        "component": "richtext",
-        "name": "text",
-        "value": "",
-        "label": "Text",
-        "valueType": "string"
-      },
-      {
-        "name": "color",
-        "label": "Text Color",
-        "component": "select",
-        "options": [
-          {
-            "name": "Black",
-            "value": "text--black"
-          },
-          {
-            "name": "White",
-            "value": "text--white"
-          }
-        ]
       }
     ]
   }
