@@ -81,6 +81,27 @@
     ]
   },
   {
+    "id": "customtext",
+    "fields": [
+      {
+        "name": "color",
+        "label": "Text Color",
+        "component": "select",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Black",
+            "value": "text--black"
+          },
+          {
+            "name": "White",
+            "value": "text--white"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "button",
     "fields": [
       {
