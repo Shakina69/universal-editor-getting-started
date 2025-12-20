@@ -252,6 +252,13 @@
     "id": "customtext",
     "fields": [
       {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      },
+      {
         "name": "color",
         "label": "Text Color",
         "component": "select",
