@@ -131,7 +131,7 @@
         },
         {
           "title": "customtext",
-          "id": "text",
+          "id": "customtext",
           "plugins": {
             "xwalk": {
               "page": {

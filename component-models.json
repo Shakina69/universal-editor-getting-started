@@ -204,7 +204,7 @@
     "id": "customtext",
     "fields": [
       {
-        "component": "richtext",
+        "component": "textarea",
         "name": "text",
         "value": "",
         "label": "Text",

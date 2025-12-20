@@ -2,7 +2,7 @@
   "definitions": [
     {
       "title": "customtext",
-      "id": "text",
+      "id": "customtext",
       "plugins": {
         "xwalk": {
           "page": {
@@ -22,7 +22,7 @@
       "id": "customtext",
       "fields": [
         {
-          "component": "richtext",
+          "component": "textarea",
           "name": "text",
           "value": "",
           "label": "Text",
