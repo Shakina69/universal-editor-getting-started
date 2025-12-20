@@ -22,7 +22,7 @@
       "id": "customtext",
       "fields": [
         {
-          "component": "textarea",
+          "component": "richtext",
           "name": "text",
           "value": "",
           "label": "Text",
