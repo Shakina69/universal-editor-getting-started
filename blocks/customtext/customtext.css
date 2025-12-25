@@ -1,12 +1,10 @@
 .text {
   padding: 12px 0;
 }
-
 /* Text colors */
 .text--black {
   color: #000;
 }
-
 .text--white {
   color: #fff;
 }
